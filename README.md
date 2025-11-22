@@ -3,7 +3,7 @@ A Master student in the field of data science and machine learning with industry
 
 
 ## 🌐 Socials:
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/davidbhoffmann) [![email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:redacted@email.com) [![Website](https://img.shields.io/badge/Website-green)](mailto:redacted@email.com) 
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/davidbhoffmann) [![email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:redacted@email.com) [![Website](https://img.shields.io/badge/Website-377539)](davidbhoffmann.com) [![email](https://img.shields.io/badge/Scholar-blue?logo=googlescholar&logoColor=white)](https://scholar.google.com/citations?user=RNGe30YAAAAJ&hl=en)
 
 
 # 💻 Tech Stack:
