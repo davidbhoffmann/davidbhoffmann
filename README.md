@@ -1,5 +1,5 @@
 # About Me:
-A Master student in the field of data science and machine learning with industry and research.
+A Master student in the field of data science and machine learning with 5 years of experience across industry and research.
 
 
 ## 🌐 Socials:
